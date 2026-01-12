@@ -1,5 +1,5 @@
 local games = {
-    [131378148336503] = "https://raw.githubusercontent.com/MajestySkie/Chloe-X/refs/heads/main/Games/FishIt.lua",---Drag Drive Simulator
+    [] = "https://raw.githubusercontent.com/MajestySkie/Chloe-X/refs/heads/main/Games/FishIt.lua",---Universal vehicle
 }
 
 local currentID = game.PlaceId
