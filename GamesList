@@ -1,5 +1,5 @@
 local games = {
-    [] = "https://raw.githubusercontent.com/MajestySkie/Chloe-X/refs/heads/main/Games/FishIt.lua",---Universal vehicle
+    [] = "raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Universal%20Vehicle",---Universal vehicle
 }
 
 local currentID = game.PlaceId
