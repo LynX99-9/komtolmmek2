@@ -11,10 +11,4 @@ local games = {
     [130594398886540] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Garden%20Horizon",
 }
 
-local currentID = game.PlaceId
-local scriptURL = games[currentID]
-if scriptURL then
-    loadstring(game:HttpGet(scriptURL))()
-else
-    game.Players.LocalPlayer:Kick("Yo! This game ain't on the list.\nCheck the Discord for whitelisted games, bro.")
-end
+return games
