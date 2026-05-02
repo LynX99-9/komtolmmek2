@@ -1,2 +1,6 @@
---- this script made by komtolmmek2 script [https://discord.gg/Ggrqtyn9RW
-print("game have anti cheat dont use it")
+--- this script made by komtolmmek2 script [https://discord.gg/Ggrqtyn9RW]
+local player = game:GetService("Players").LocalPlayer
+
+wait(2)
+
+player:Kick("Cyraa still update. btw this script not using key , free no key system https://discord.gg/Ggrqtyn9RW")
